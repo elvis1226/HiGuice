@@ -1,0 +1,14 @@
+[
+    {
+      "kind": "APPLE",
+      "count" : 10
+    },
+    {
+      "kind" : "ORANGE",
+      "count" : 20
+    },
+    {
+     "kind" : "PEAR",
+     "count" : 20
+    }
+]
